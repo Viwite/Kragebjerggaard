@@ -2,7 +2,7 @@
 
 <div class="footer row">
     <div class="col-12 col-lg mb-5">
-        <a class="navbar-brand class-text" href="index.php">Ide&Bog</a>
+        <a class="navbar-brand class-text" href="index.php">Kragebjerggård</a>
     </div>
     <div class="footer-text col-12 col-lg text-center mt-5 mb-5">
         <p class="class-text">Shopping</p>
