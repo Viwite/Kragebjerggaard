@@ -4,8 +4,14 @@ require "settings/init.php";
 if(!empty($_POST["data"])){
     $data = $_POST["data"];
 
-    $sql = "INSERT INTO produkter (prodNavn, prodBeskrivelse, prodPris, prodSort, prodKategori) VALUES(:prodNavn, :prodBeskrivelse, :prodPris, :prodBillede, :prodSort, :prodKategori)";
-    $bind  = [":prodNavn" => $data["prodNavn"], ":prodBeskrivelse" => $data["prodBeskrivelse"], ":prodPris" => $data["prodPris"], ":prodSort" => $data["prodSort"], ":prodKategori" => $data["prodKategori"]];
+    $sql = "INSERT INTO produkter (prodNavn, prodBeskrivelse, prodPris, prodSort, prodKategori) VALUES(:prodNavn, :prodBeskrivelse, :prodPris, :prodSort, :prodKategori)";
+    $bind  = [
+            ":prodNavn" => $data["prodNavn"],
+            ":prodBeskrivelse" => $data["prodBeskrivelse"],
+            ":prodPris" => $data["prodPris"],
+            ":prodSort" => $data["prodSort"],
+            ":prodKategori" => $data["prodKategori"]
+            ];
 
     $db->sql($sql, $bind, false);
 
@@ -46,7 +52,7 @@ if(!empty($_POST["data"])){
             <div class="col-12 col-md-6">
                 <div class="form-group">
                     <label for="prodPris">Produkt pris</label>
-                    <input class="form-control" type="number" step="0.1" name="data[prodPris]" id="prodPris" placeholder="produkt navn" value="">
+                    <input class="form-control" type="number" step="0.1" name="data[prodPris]" id="prodPris" placeholder="produkt pris" value="">
                 </div>
             </div>
             <div class="col-12 col-md-6">
