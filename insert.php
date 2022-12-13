@@ -1,3 +1,19 @@
+<?php
+require "settings/init.php";
+
+if(!empty($_POST["data"])){
+    $data = $_POST["data"];
+
+    $sql = "INSERT INTO produkter (prodNavn, prodBeskrivelse, prodPris, prodSort, prodKategori) VALUES(:prodNavn, :prodBeskrivelse, :prodPris, :prodBillede, :prodSort, :prodKategori)";
+    $bind  = [":prodNavn" => $data["prodNavn"], ":prodBeskrivelse" => $data["prodBeskrivelse"], ":prodPris" => $data["prodPris"], ":prodSort" => $data["prodSort"], ":prodKategori" => $data["prodKategori"]];
+
+    $db->sql($sql, $bind, false);
+
+    echo "Produktet er nu indsat. <a href='insert.php'>Indsæt et produkt mere</a>";
+    exit;
+}
+?>
+
 <!DOCTYPE html>
 <html lang="da">
 <head>
