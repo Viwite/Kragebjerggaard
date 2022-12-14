@@ -3,12 +3,19 @@ require "settings/init.php";
 
 if(!empty($_POST["data"])){
     $data = $_POST["data"];
+    $file = $_FILES;
 
-    $sql = "INSERT INTO produkter (prodNavn, prodBeskrivelse, prodPris, prodSort, prodKategori) VALUES(:prodNavn, :prodBeskrivelse, :prodPris, :prodSort, :prodKategori)";
+    if(!empty($file["prodBillede"]["tmp_name"])){
+        move_uploaded_file($file["prodBillede"]["tmp_name"], "uploads/" . basename($file["prodBillede"]["name"]));
+    }
+
+
+    $sql = "INSERT INTO produkter (prodNavn, prodBeskrivelse, prodPris, prodBillede, prodSort, prodKategori) VALUES(:prodNavn, :prodBeskrivelse, :prodPris, :prodBillede, :prodSort, :prodKategori)";
     $bind  = [
             ":prodNavn" => $data["prodNavn"],
             ":prodBeskrivelse" => $data["prodBeskrivelse"],
             ":prodPris" => $data["prodPris"],
+            ":prodBillede" => (!empty($file["prodBillede"]["tmp_name"])) ? $file["prodBillede"]["name"] : NULL,
             ":prodSort" => $data["prodSort"],
             ":prodKategori" => $data["prodKategori"]
             ];
@@ -41,7 +48,7 @@ if(!empty($_POST["data"])){
 
 <body>
 
-    <form method="post" action="insert.php">
+    <form method="post" action="insert.php" enctype="multipart/form-data">
         <div class="row">
             <div class="col-12 col-md-6">
                 <div class="form-group">
