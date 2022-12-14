@@ -15,7 +15,7 @@ if (isset($data["password"]) && $data["password"] == 'Krager') {
 
     }
 
-    $boger = $db->sql($sql, $bind);
+    $produkter = $db->sql($sql, $bind);
     header("HTTP/1.1 200 OK");
 
     echo json_encode($produkter);
