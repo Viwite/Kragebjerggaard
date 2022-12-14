@@ -18,7 +18,7 @@ if (isset($data["password"]) && $data["password"] == 'Krager') {
     $boger = $db->sql($sql, $bind);
     header("HTTP/1.1 200 OK");
 
-    echo json_encode($boger);
+    echo json_encode($produkter);
 
 } else {
     header("HTTP/1.1 401 Unauthorized");
