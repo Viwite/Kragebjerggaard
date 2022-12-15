@@ -24,7 +24,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="container-fluid p-0">
-    <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
+    <img class="w-100" src="uploads/Asset%2014-8.png" alt="banner">
 </div>
 
 <div class="container-fluid" style="background-color: #f1f1f1">
