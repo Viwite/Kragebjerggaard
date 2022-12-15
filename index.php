@@ -19,7 +19,31 @@
 
 <?php include "includes/navigation.php"; ?>
 
+<div class="container-fluid" style="background: #f2e1be;">
 
+    <br>
+
+    <div class="boger">
+        <div class="filter p-2">
+            <div class="row">
+                <div class="col-md-4 offset-md-4">
+                    <input type="search" class="form-control nameSearch" placeholder="Søg og du skal finde">
+                </div>
+            </div>
+        </div>
+
+        <hr><hr>
+
+        <h1 class="class-text p-1" style="text-align: center">Bøger</h1>
+
+        <hr><hr>
+
+        <div class="items mt-5">
+            <!--Produkterne-->
+        </div>
+    </div>
+
+</div>
 
 
 <?php include "includes/footer.php"; ?>
@@ -29,10 +53,11 @@ require "settings/init.php";
 
 $produkter = $db->sql("SELECT * FROM produkter");
 
-foreach ($produkter as $produkt){
-    echo $produkt->produktName . "<br>";
-}
+
 ?>
+<?php
+?>
+
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script type="module">
