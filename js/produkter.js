@@ -33,10 +33,10 @@ export default class Produkter {
 
             col.innerHTML = `
                 
-                    <div class="card border-dark shadow-lg p-3 mb-5 rounded mb-3" style="max-width: 540px; background: floralwhite;">
+                    <div class="card border-dark shadow-lg p-3 mb-5 rounded mb-3" style="max-width: 540px; background: #f1f1f1;">
                         <div class="row g-0">
                             <div class="col-md-4">
-                                <img src="uploads/${item.prodBillede}" class="img-fluid rounded-start" alt="bog">
+                                <img src="uploads/${item.prodBillede}" class="img-fluid rounded-start" alt="produkt">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
