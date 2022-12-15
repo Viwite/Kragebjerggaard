@@ -21,7 +21,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Lotte.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Vores grundlægger, Lotte Kragh</h1>
         <br>
@@ -32,7 +32,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Palle.webp" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Gårdman, Palle Kragh</h1>
         <br>
@@ -43,7 +43,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Pia.webp" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Vores landbrugsmedarbejder, Pia Kallesen</h1>
         <br>
@@ -54,7 +54,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Ingeborg.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Koen Ingeborg</h1>
         <br>
@@ -65,7 +65,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Gitte.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Ko fruen Gitte</h1>
         <br>
@@ -76,7 +76,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Dorte.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text"> Koen Dorte</h1>
         <br>
@@ -87,7 +87,7 @@
 </section>
 
 <section class="card mx-auto my-5" style="max-width: 50%;">
-    <img src=".." class="card-img-top" alt="personalet">
+    <img src="uploads/Gry.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
         <h1 class="card-text">Gry</h1>
         <br>
