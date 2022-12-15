@@ -37,3 +37,11 @@ $produkter = $db->sql("SELECT * FROM produkter");
 foreach ($produkter as $produkt){
     echo $produkt->produktName . "<br>";
 }
+?>
+
+<script type="module">
+    import Produkter from "./js/produkter.js";
+
+    const produkter = new Produkter();
+    produkter.init();
+</script>
