@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php"></a>
 
-            <img src=""
+            <img src="uploads/Asset_2%20(1).svg" class="" alt="">
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
