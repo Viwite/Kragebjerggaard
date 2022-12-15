@@ -20,6 +20,22 @@
 
 <?php include "includes/navigation.php"; ?>
 
+<div class="card mb-3" style="max-width: 540px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="uploads/Lotte.jpg" class="card-img-top" alt="personalet">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">Vores grundlægger, Lotte Kragh</h5>
+                <p class="card-text">Lotte Kragh er sjette generation af gårdejer på Kragebjerggård</p>
+                <p class="card-text">i 25 år har hun sørget for at gården er gået efter den grønne omstilling og nu kører efter bæredygtige premiser</p>
+                <p class="card-text">Hun sørger for dyrevelfærden på gården og går op i nulforbrug af sprøjtemidler</p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section class="card mx-auto my-5" style="max-width: 50%;">
     <img src="uploads/Lotte.jpg" class="card-img-top" alt="personalet">
     <div class="card-body">
