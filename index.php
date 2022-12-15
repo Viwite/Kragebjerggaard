@@ -23,8 +23,8 @@
     <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
 </div>
 
-<div class="container-fluid">
-    <div class="row my-5 mx-1 d-flex">
+<div class="container-fluid" style="background-color: #f1f1f1">
+    <div class="row py-5 mx-1 d-flex">
         <div class="col-12 col-lg-4 justify-content-between">
             <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
         </div>
@@ -36,7 +36,7 @@
             <h5 class="text" style="text-align: center">Lige så let som det vises til venstre</h5>
 
             <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
-                <button class="btn btn-primary" type="button">Button</button>
+                <button class="btn btn-success" type="button">Button</button>
             </div>
         </div>
     </div>
