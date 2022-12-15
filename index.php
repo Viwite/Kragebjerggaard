@@ -23,7 +23,7 @@
 
     <br>
 
-    <div class="boger">
+    <div class="produkter">
         <div class="filter p-2">
             <div class="row">
                 <div class="col-md-4 offset-md-4">
@@ -34,7 +34,7 @@
 
         <hr><hr>
 
-        <h1 class="class-text p-1" style="text-align: center">Bøger</h1>
+        <h1 class="class-text p-1" style="text-align: center">Produkter</h1>
 
         <hr><hr>
 
