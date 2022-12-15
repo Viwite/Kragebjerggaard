@@ -19,8 +19,8 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid">
-    <img sr
+<div class="container-fluid p-0">
+    <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
 </div>
 
 <div class="container-fluid">
