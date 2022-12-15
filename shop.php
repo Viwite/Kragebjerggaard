@@ -20,7 +20,9 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid" style="background: #f2e1be;">
+<div class="container-fluid p-0" style="background: #f1f1f1;">
+
+    <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
 
     <br>
 
@@ -33,11 +35,7 @@
             </div>
         </div>
 
-        <hr><hr>
-
         <h1 class="class-text p-1" style="text-align: center">Produkter</h1>
-
-        <hr><hr>
 
         <div class="items mt-5">
             <!--Produkterne-->
