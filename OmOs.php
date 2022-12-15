@@ -49,7 +49,7 @@
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title">Gårdman, Palle Kragh</h5>
-                            <p class="card-text">Lotte Kragh er sjette generation af gårdejer på Kragebjerggård</p>
+                            <p class="card-text">Palle</p>
                             <p class="card-text">i 25 år har hun sørget for at gården er gået efter den grønne
                                 omstilling og
                                 nu

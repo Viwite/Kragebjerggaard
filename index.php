@@ -40,7 +40,7 @@
             <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises til venstre</h5>
 
             <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
-                <button class="btn btn-success" type="button">Bestil</button>
+                <a class="btn btn-success" href="shop.php"><h3 class="btn-text text-decoration-none">Shop</h3></a>
             </div>
         </div>
     </div>
