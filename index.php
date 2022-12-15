@@ -24,11 +24,6 @@
 
 <?php include "includes/footer.php"; ?>
 
-
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
-
 <?php
 require "settings/init.php";
 
@@ -39,9 +34,12 @@ foreach ($produkter as $produkt){
 }
 ?>
 
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script type="module">
     import Produkter from "./js/produkter.js";
 
     const produkter = new Produkter();
     produkter.init();
 </script>
+</body>
+</html>
