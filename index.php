@@ -11,6 +11,10 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+    </style>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -29,11 +33,11 @@
             <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
         </div>
         <div class="col-12 col-lg-8 justify-content-evenly">
-            <h1 class="text m-5" style="text-align: center">Velkommen til Kragebjerggård</h1>
+            <h1 class="text m-5" style="text-align: center; font-family: 'Lato', sans-serif;"><b>Velkommen til Kragebjerggård</b></h1>
             <br><br>
-            <h5 class="text" style="text-align: center">Dit sted for nemme økologiske madløsninger</h5>
+            <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Dit sted for nemme økologiske madløsninger</h5>
             <br>
-            <h5 class="text" style="text-align: center">Lige så let som det vises til venstre</h5>
+            <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises til venstre</h5>
 
             <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
                 <button class="btn btn-success" type="button">Button</button>
