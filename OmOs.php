@@ -24,7 +24,7 @@
     <div class="row d-flex">
         <div class="col">
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="uploads/Lotte.jpg" class="card-img-top" alt="personalet">
@@ -44,7 +44,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
@@ -64,7 +64,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="uploads/Pia.webp" class="card-img-top" alt="personalet">
@@ -84,7 +84,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
@@ -104,7 +104,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="uploads/Gitte.jpg" class="card-img-top" alt="personalet">
@@ -124,7 +124,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto" style="max-width: 80%;">
+            <div class="card my-5 mx-auto" style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
@@ -144,7 +144,7 @@
                 </div>
             </div>
 
-            <div class="card my-5 mx-auto " style="max-width: 80%;">
+            <div class="card my-5 mx-auto " style="max-width: 70%;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="uploads/Gry.jpg" class="card-img-top" alt="personalet">
