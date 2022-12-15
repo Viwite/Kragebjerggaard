@@ -20,8 +20,25 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="container-fluid">
-    <div class="row">
-        <img src="uploads/"
+    <img sr
+</div>
+
+<div class="container-fluid">
+    <div class="row my-5 mx-1 d-flex">
+        <div class="col-12 col-lg-4 justify-content-between">
+            <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
+        </div>
+        <div class="col-12 col-lg-8 justify-content-evenly">
+            <h1 class="text m-5" style="text-align: center">Velkommen til Kragebjerggård</h1>
+            <br><br>
+            <h5 class="text" style="text-align: center">Dit sted for nemme økologiske madløsninger</h5>
+            <br>
+            <h5 class="text" style="text-align: center">Lige så let som det vises til venstre</h5>
+
+            <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
+                <button class="btn btn-primary" type="button">Button</button>
+            </div>
+        </div>
     </div>
 </div>
 
