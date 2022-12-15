@@ -11,7 +11,7 @@
     <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
         <p class="class-text"><b>FØLG OS</b></p>
         <br>
-        <i class="fa-brands fa-square-facebook"></i>
+        <i class="fa-brands fa-facebook"></i>
         <p class="class-text">FACEBOOK</p>
         <p class="class-text">INSTAGRAM</p>
     </div>
