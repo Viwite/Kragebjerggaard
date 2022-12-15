@@ -1,21 +1,36 @@
-<footer class="container-fluid bg-light">
+<footer class="container-fluid" style="background-color: #8BC9AD;"">
 
 <div class="footer row">
-    <div class="col-12 col-lg mb-5">
-        <a class="navbar-brand class-text" href="index.php">Kragebjerggård</a>
+    <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
+        <p class="class-text"><b>SITEMAP</b></p>
+        <br>
+        <p class="class-text">SHOP</p>
+        <p class="class-text">OM OS</p>
+        <p class="class-text">KONTAKT</p>
     </div>
-    <div class="footer-text col-12 col-lg text-center mt-5 mb-5">
-        <p class="class-text">Shopping</p>
-        <p class="class-text">Gifts</p>
-        <p class="class-text">Events</p>
-        <p class="class-text">Special Edition</p>
+    <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
+        <p class="class-text"><b>FØLG OS</b></p>
+        <br>
+        <i class="fa-brands fa-square-facebook"></i>
+        <p class="class-text">FACEBOOK</p>
+        <p class="class-text">INSTAGRAM</p>
     </div>
-    <div class="footer-text col-12 col-lg text-center mt-5 mb-5">
-        <p class="class-text">Contact Us</p>
-        <p class="class-text">Returns</p>
+    <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
+        <p class="class-text"><b>POLITIKKER</b></p>
+        <br>
+        <p class="class-text">PRIVACY POLICY</p>
+        <p class="class-text">TERMS OF SERVICE</p>
+        <p class="class-text">SMILEYRAPPORT</p>
         <p class="class-text">FAQ</p>
-        <p class="class-text">Terms of privacy</p>
-        <p class="class-text">Get help</p>
+    </div>
+    <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
+        <p class="class-text"><b>KONTAKT OS</b></p>
+        <br>
+        <p class="class-text">KRAGEBJERGGÅRD</p>
+        <p class="class-text">KRAGEBJERGÅRD 42</p>
+        <p class="class-text">4500</p>
+        <p class="class-text">kragebjerggaard@mail.dk</p>
+        <p class="class-text">+45xxxxxxxx</p>
     </div>
 </div>
 
