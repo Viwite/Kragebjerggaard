@@ -22,7 +22,7 @@
 
 <div class="container-fluid p-0" style="background: #f1f1f1;">
 
-    <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
+    <img class="w-100" src="uploads/Asset%2014-8.png" alt="banner">
 
     <br>
 

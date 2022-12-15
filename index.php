@@ -24,7 +24,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="container-fluid p-0">
-    <img class="w-100" src="uploads/Asset%2014-9.png" alt="banner">
+    <img class="w-100" src="uploads/Asset%2014-8.png" alt="banner">
 </div>
 
 <div class="container-fluid" style="background-color: #f1f1f1">
@@ -40,7 +40,7 @@
             <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises til venstre</h5>
 
             <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
-                <button class="btn btn-success" type="button">Button</button>
+                <button class="btn btn-success" type="button">Bestil</button>
             </div>
         </div>
     </div>
