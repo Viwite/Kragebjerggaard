@@ -1,6 +1,6 @@
 <footer class="container-fluid" style="background-color: #8BC9AD;"">
 
-<div class="footer row">
+<div class="footer row" style="font-family: 'Lato', sans-serif;">
     <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
         <p class="class-text"><b>SITEMAP</b></p>
         <br>
@@ -11,7 +11,7 @@
     <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
         <p class="class-text"><b>FØLG OS</b></p>
         <br>
-        <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-square-facebook"></i>
         <p class="class-text">FACEBOOK</p>
         <p class="class-text">INSTAGRAM</p>
     </div>
@@ -28,7 +28,7 @@
         <br>
         <p class="class-text">KRAGEBJERGGÅRD</p>
         <p class="class-text">KRAGEBJERGÅRD 42</p>
-        <p class="class-text">4500</p>
+        <p class="class-text">4500 NYRUP</p>
         <p class="class-text">kragebjerggaard@mail.dk</p>
         <p class="class-text">+45xxxxxxxx</p>
     </div>
