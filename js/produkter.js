@@ -45,7 +45,7 @@ export default class Produkter {
                                     <p class="forfatter">${item.prodSort}</p>
                                     <p class="class-text">${item.prodPris}</p>
                                     <p class="class-text"><small class="text-muted">${item.prodKategori}</small></p>
-                                    <a href="product.php?prodId=${item.prodId}" class="btn btn-secondary text-white w-100">Se bøger</a>
+                                    <a href="product.php?prodId=${item.prodId}" class="btn btn-secondary text-white w-100">Se produkt</a>
                                 </div>
                             </div>
                         </div>
