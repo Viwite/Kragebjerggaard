@@ -1,4 +1,4 @@
-<footer class="container-fluid" style="background-color: #8BC9AD;"">
+<footer class="container-fluid" style="background-color: #8BC9AD;">
 
 <div class="footer row" style="font-family: 'Lato', sans-serif;">
     <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
