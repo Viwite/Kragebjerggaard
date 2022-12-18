@@ -23,7 +23,7 @@
 <section class="card" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4 mt-5 mb-5 p-2">
-            <img src="uploads/krage_pa_marj.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
+            <img src="uploads/krage_pa_marj-01.png"  class="img-fluid rounded-start col-lg" alt="kontakt billede">
         </div>
         <div class="col-md-8 bg-grøn">
             <div class="card-body">
