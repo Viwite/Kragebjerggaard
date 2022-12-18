@@ -27,9 +27,9 @@
         <p class="class-text"><b>KONTAKT OS</b></p>
         <br>
         <p class="class-text">KRAGEBJERGGÅRD</p>
-        <p class="class-text">KRAGEBJERGÅRD 42</p>
+        <p class="class-text">GADEVEJ 3</p>
         <p class="class-text">4500 NYRUP</p>
-        <p class="class-text">kragebjerggaard@mail.dk</p>
+        <p class="class-text">Info_dk@Kragebjerggaard.com</p>
         <p class="class-text">+45xxxxxxxx</p>
     </div>
 </div>
