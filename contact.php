@@ -54,26 +54,26 @@
                     er du velkommen til at kontakte os
                 </p>
                 <p class="card-text">
-                    på: <a href="Info_dk@Chocolateclub.com">Info_dk@Chocolateclub.com</a>
+                    på: <a href="Info_dk@Kragebjerggaard.com">Info_dk@Kragebjerggaard.com</a>
                 </p>
                 <br>
                 <br>
                 <h3 class="card-title">Administration</h3>
                 <p class="card-text">
-                    Gadevej 30 DK-2860, Bagsværd
+                    Gadevej 3 DK-4500, Nyrup
                 </p>
                 <p class="card-text">
-                    Tel 33 44 88 11
+                    Tel +45xxxxxxxx
                 </p>
                 <p class="card-text">
                     CVR 10 10 16 28
                 </p>
                 <br>
                 <p class="card-text">
-                    Fakturering til Chocolate Club:
+                    Fakturering til Kragebjerggaard:
                 </p>
                 <p class="card-text">
-                    <a href="Dksupplierinvoice@chocolateclub.se">Dksupplierinvoice@chocolateclub.se</a>
+                    <a href="Dksupplierinvoice@kragebjerggaard.se">Dksupplierinvoice@chocolateclub.se</a>
                 </p>
                 <p class="card-text pb-5">
                     <a href="kontrolrapport">Kontrolrapport</a>
