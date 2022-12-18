@@ -23,11 +23,11 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid p-0">
+<header class="container-fluid p-0">
     <img class="w-100" src="uploads/Asset%2014-8.png" alt="banner">
-</div>
+</header>
 
-<div class="container-fluid" style="background-color: #f1f1f1;">
+<main class="container-fluid" style="background-color: #f1f1f1;">
     <div class="row py-5 mx-1 d-flex">
         <div class="col-12 col-lg-4 justify-content-between">
             <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
@@ -44,7 +44,7 @@
             </div>
         </div>
     </div>
-</div>
+</main>
 
 <?php include "includes/footer.php"; ?>
 

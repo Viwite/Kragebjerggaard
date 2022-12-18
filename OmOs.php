@@ -20,7 +20,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid p-0" style="background-color: #f1f1f1;">
+<section class="container-fluid p-0" style="background-color: #f1f1f1;">
     <div class="row d-flex">
         <div class="col">
 
@@ -145,7 +145,7 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 <?php include "includes/footer.php"; ?>
 
 

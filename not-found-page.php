@@ -19,7 +19,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid p-5">
+<section class="container-fluid p-5">
 
     <h1 class="text-1" style="text-align: center; font-family: lato, sans-serif; color: #1F897D;">ERROR</h1>
     <h1 class="text-1" style="text-align: center; font-family: lato, sans-serif; color: #1F897D;">404:</h1>
@@ -34,7 +34,7 @@
 
     <img class="img mx-auto" src="uploads/sadcow" alt="sad cow">
 
-</div>
+</section>
 
 <?php include "includes/footer.php"; ?>
 
