@@ -27,7 +27,7 @@
     <img class="w-100" src="uploads/Asset%2014-8.png" alt="banner">
 </div>
 
-<div class="container-fluid" style="background-color: #f1f1f1">
+<div class="container-fluid" style="background-color: #f1f1f1;">
     <div class="row py-5 mx-1 d-flex">
         <div class="col-12 col-lg-4 justify-content-between">
             <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
@@ -39,7 +39,7 @@
             <br>
             <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises til venstre</h5>
 
-            <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px">
+            <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px;">
                 <a class="btn btn-success" href="shop.php"><h3 class="btn-text text-decoration-none">Shop</h3></a>
             </div>
         </div>

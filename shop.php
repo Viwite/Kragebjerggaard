@@ -35,7 +35,7 @@
             </div>
         </div>
 
-        <h1 class="class-text p-1" style="text-align: center">Produkter</h1>
+        <h1 class="class-text p-1" style="text-align: center;">Produkter</h1>
 
         <div class="items mt-5">
             <!--Produkterne-->

@@ -20,7 +20,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="container-fluid p-0" style="background-color: #f1f1f1">
+<div class="container-fluid p-0" style="background-color: #f1f1f1;">
     <div class="row d-flex">
         <div class="col">
 
@@ -31,13 +31,13 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Vores grundlægger, Lotte Kragh</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">Lotte Kragh er sjette generation af gårdejer på Kragebjerggård</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">i 25 år har hun sørget for at gården er gået efter den grønne
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Vores grundlægger, Lotte Kragh</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Lotte Kragh er sjette generation af gårdejer på Kragebjerggård</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">i 25 år har hun sørget for at gården er gået efter den grønne
                                 omstilling og
                                 nu
                                 kører efter bæredygtige premiser</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hun sørger for dyrevelfærden på gården og går op i nulforbrug af
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hun sørger for dyrevelfærden på gården og går op i nulforbrug af
                                 sprøjtemidler</p>
                         </div>
                     </div>
@@ -48,12 +48,12 @@
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Gårdman, Palle Kragh</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">Palle er vores ældste medarbejder og sørger for at køerne har det godt</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Han står også for kvaliteten for vores dejlige frilandsgrøntsager</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hverdag tilser han gårdens mangler og arbejder sig henimod succes uden at gå på kompromis med velfærden på gårsen</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Gårdman, Palle Kragh</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Palle er vores ældste medarbejder og sørger for at køerne har det godt</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Han står også for kvaliteten for vores dejlige frilandsgrøntsager</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hverdag tilser han gårdens mangler og arbejder sig henimod succes uden at gå på kompromis med velfærden på gårsen</p>
                             <br>
-                            <p class="card-text" style="font-family: lato, sans-serif">"jeg er taknemlig for at kunne arbejde sammen med de dejlige damer der går ude på markerne"</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">"jeg er taknemlig for at kunne arbejde sammen med de dejlige damer der går ude på markerne"</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -69,12 +69,12 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Vores landbrugsmedarbejder, Pia Kallesen</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">Pia hjælper til på gården, hver dag og sørger for vedligeholdelse af vores webshop</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hun har været så sød og tage billederne af vores varer og af køerne</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hun elsker livet på gården og sørger for trivsel mellem græsdamerne</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Vores landbrugsmedarbejder, Pia Kallesen</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Pia hjælper til på gården, hver dag og sørger for vedligeholdelse af vores webshop</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hun har været så sød og tage billederne af vores varer og af køerne</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hun elsker livet på gården og sørger for trivsel mellem græsdamerne</p>
                             <br>
-                            <p class="card-text" style="font-family: lato, sans-serif">"jeg er så glad for denne mulighed, det er en drøm der er gået i opfyldelse"</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">"jeg er så glad for denne mulighed, det er en drøm der er gået i opfyldelse"</p>
                         </div>
                     </div>
                 </div>
@@ -84,9 +84,9 @@
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Koen Ingeborg</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">En ung frisk dame, der ikke er bange for at sige nej, hvilken hun skal have lov til</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Elsker at tygge drov selv indenfor</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Koen Ingeborg</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">En ung frisk dame, der ikke er bange for at sige nej, hvilken hun skal have lov til</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Elsker at tygge drov selv indenfor</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -102,10 +102,10 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Ko fruen Gitte</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">Vores ældste frue</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Mor til Ingeborg og Dorte</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Selvom hun er ved at gå på pension for malkning, er hun stadig frejdig og hygger sig med veninderne på græsset</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Ko fruen Gitte</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Vores ældste frue</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Mor til Ingeborg og Dorte</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Selvom hun er ved at gå på pension for malkning, er hun stadig frejdig og hygger sig med veninderne på græsset</p>
                         </div>
                     </div>
                 </div>
@@ -115,10 +115,10 @@
                 <div class="row g-0">
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Koen Dorte</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">Stille og rolig Dorte</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Men når det tager hende, kan hun sagtens sætte de andre på plads</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hun elsker at drille sin gamle mor Ingeborg</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Koen Dorte</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Stille og rolig Dorte</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Men når det tager hende, kan hun sagtens sætte de andre på plads</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hun elsker at drille sin gamle mor Ingeborg</p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -134,11 +134,11 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title" style="font-family: lato, sans-serif">Gry</h5>
-                            <p class="card-text" style="font-family: lato, sans-serif">En smuk sjæl</p>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hun elsker sit ejet selvskab, men driver aldrig for langt væk fra flokken</p>
+                            <h5 class="card-title" style="font-family: lato, sans-serif;">Gry</h5>
+                            <p class="card-text" style="font-family: lato, sans-serif;">En smuk sjæl</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hun elsker sit ejet selvskab, men driver aldrig for langt væk fra flokken</p>
                             <br>
-                            <p class="card-text" style="font-family: lato, sans-serif">Hvis sømælk kun er lavet af sødekøer, så er det Gry der står for sødmælken på Kragebjerggård</p>
+                            <p class="card-text" style="font-family: lato, sans-serif;">Hvis sømælk kun er lavet af sødekøer, så er det Gry der står for sødmælken på Kragebjerggård</p>
                         </div>
                     </div>
                 </div>
