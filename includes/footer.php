@@ -13,6 +13,7 @@
         <br>
         <i class="fa-brands fa-square-facebook"></i>
         <p class="class-text">FACEBOOK</p>
+        <i class="fa-brands fa-instagram"></i>
         <p class="class-text">INSTAGRAM</p>
     </div>
     <div class="footer-text col-12 col-lg text-center mt-4 mb-5 text-light">
