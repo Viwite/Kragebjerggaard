@@ -1,7 +1,7 @@
 export default class Produkter {
     constructor() {
         this.data = {
-            password: "Krager",
+            password: "krager",
         }
 
         this.rootElem = document.querySelector('.produkter');
