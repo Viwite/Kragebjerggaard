@@ -5,7 +5,7 @@ $data = json_decode(file_get_contents('php://input'),true);
 
 header('Content-Type: application/json; charset=utf-8');
 
-if (isset($data["password"]) && $data["password"] == 'Krager') {
+if (isset($data["password"]) && $data["password"] == 'krager') {
     $sql = "SELECT * FROM produkter WHERE 1=1";
     $bind = [];
 
