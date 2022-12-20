@@ -36,7 +36,7 @@
             <br><br>
             <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Dit sted for nemme økologiske madløsninger</h5>
             <br>
-            <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises til venstre</h5>
+            <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Lige så let som det vises for neden</h5>
 
             <div class="d-grid gap-2 col-6 mx-auto" style="margin-top: 150px;">
                 <a class="btn btn-success" href="shop.php"><h3 class="btn-text text-decoration-none">Shop</h3></a>
@@ -47,8 +47,14 @@
 
 <section class="container-fluid" style="background-color: #f1f1f1;">
     <div class="row py-5 mx-1 d-flex">
-        <div class="col col-md-4 justify-content-evenly">
-            <img src="uploads/"
+        <div class="col-12 col-md-4 justify-content-evenly">
+            <img src="uploads/illustration%201%20bestillings%20fase.png" alt="bestillingsfase">
+        </div>
+        <div class="col-12 col-md-4 justify-content-evenly">
+            <img src="uploads/illustration%201%20fra%20gaard.png" alt="fragaarden">
+        </div>
+        <div class="col-12 col-md-4 justify-content-evenly">
+            <img src="uploads/illustration%203%20levering.png" alt="leveringsfase">
         </div>
     </div>
 </section>
