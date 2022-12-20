@@ -31,10 +31,7 @@
 
 <main class="container-fluid" style="background-color: #f1f1f1;">
     <div class="row py-5 mx-1 d-flex">
-        <div class="col-12 col-md-4 justify-content-between">
-            <img src="uploads/informerende%20illustartion.png" alt="informerende illustration">
-        </div>
-        <div class="col-12 col-lg-8 justify-content-evenly">
+        <div class="col-12 col-lg justify-content-evenly">
             <h1 class="text m-5" style="text-align: center; font-family: 'Lato', sans-serif;"><b>Velkommen til Kragebjerggård</b></h1>
             <br><br>
             <h5 class="text" style="text-align: center; font-family: mr-eaves-modern, sans-serif; font-style: normal; font-weight: 100;">Dit sted for nemme økologiske madløsninger</h5>
@@ -47,6 +44,14 @@
         </div>
     </div>
 </main>
+
+<section class="container-fluid" style="background-color: #f1f1f1;">
+    <div class="row py-5 mx-1 d-flex">
+        <div class="col col-md-4 justify-content-evenly">
+            <img src="uploads/"
+        </div>
+    </div>
+</section>
 
 <?php include "includes/footer.php"; ?>
 
