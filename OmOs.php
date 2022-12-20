@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Kragebjerggaard</title>
+    <title>Kragebjerggaard_om_os</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
